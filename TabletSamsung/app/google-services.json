@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1718917196",
+    "firebase_url": "https://myfirstapp-44dc0.firebaseio.com",
+    "project_id": "myfirstapp-44dc0",
+    "storage_bucket": "myfirstapp-44dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1718917196:android:9f5bac4ed1bee93e",
+        "android_client_info": {
+          "package_name": "cl.bgautier.tabletsamsung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1718917196-0obg9s5d3gjki6tl7c3avlot65d2r0hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCXcpRhukdgmH2dd9_34hMXmcDwocrzhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
